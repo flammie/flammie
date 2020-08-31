@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-1. working with [divvun] and [giellalt]
+1. working with @divvun and @giellalt
 2. spare time working with all Uralic langauge technology
-3. you *can* sponsor me via github sponsors / patreon (~increased support for 2.)
+  - see @acl-sigur Association of Computationa Linguistics' Special Interest Group for Uralistics
+3. you *can* sponsor me via github sponsors / patreon (->increased support for 2.)
